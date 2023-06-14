@@ -1,14 +1,14 @@
 
 CREATE TABLE Normativas (
     NroRegistro INT PRIMARY KEY,
-    TipoNormativa TEXT,
-    NroNormativa TEXT,
+    TipoNormativa VARCHAR(250),
+    NroNormativa VARCHAR(250),
     Fecha DATE,
-    Descripcion TEXT,
-    Categoria TEXT,
-    Jurisdiccion TEXT,
-    OrganoLegislativo TEXT,
-    PalabrasClave TEXT
+    Descripcion VARCHAR(250),
+    Categoria VARCHAR(250),
+    Jurisdiccion VARCHAR(250),
+    OrganoLegislativo VARCHAR(250),
+    PalabrasClave VARCHAR(250)
 );
 
 INSERT INTO Normativas (NroRegistro, TipoNormativa, NroNormativa, Fecha, Descripcion, Categoria, Jurisdiccion, OrganoLegislativo, PalabrasClave)
