@@ -91,4 +91,5 @@ while True:
     else:
         print("Opción inválida. Por favor, seleccione una opción válida.")
 
+
 gestor.connection.close()
