@@ -60,6 +60,7 @@ class Normativa:
         self.organo_legislativo = organo_legislativo
         self.palabras_clave = palabras_clave
 
+
     def __str__(self):
         return f"Número de Registro: {self.nro_registro}\n" \
             f"Tipo de Normativa: {self.tipo_normativa}\n" \
