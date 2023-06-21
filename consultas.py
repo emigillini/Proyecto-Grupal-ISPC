@@ -1,3 +1,4 @@
+
 import mysql.connector
 
 """creacion de base de datos comanndos a traves de archivo pyton en visual + conexion"""
@@ -187,3 +188,4 @@ while True:
         print("Opción inválida. Por favor, seleccione una opción válida.")
 
 gestor.connection.close()
+
