@@ -1,14 +1,16 @@
-Trabajo Grupal Integrador
+# Trabajo Grupal Integrador
 
-Integrantes:
+### Integrantes:
 
-Galleguillo Jimena
+- Galleguillo Jimena
 
-Gillini Emiliano
+- Gillini Emiliano
 
-Gulle Melisa
+- Gulle Melisa
 
-Irala Carolina
+- Irala Carolina
 
-Merlo Ana
+- Lujan Oscar
+
+- Merlo Ana
 
